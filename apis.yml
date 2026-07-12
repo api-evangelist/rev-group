@@ -10,4 +10,6 @@ specificationVersion: '0.19'
 common:
   - type: LinkedIn
     url: https://www.linkedin.com/company/rev-group-inc
+  - type: Blog
+    url: https://revgroup.com/feed/
 apis: []
