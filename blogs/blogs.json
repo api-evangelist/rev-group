@@ -2,20 +2,21 @@
   "repo": "rev-group",
   "feeds": [
     {
+      "source": "https://www.linkedin.com/company/rev-group-inc",
+      "feed_url": "https://www.linkedin.com/company/rev-group-inc",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    },
+    {
       "source": "https://revgroup.com/feed/",
       "feed_url": "https://revgroup.com/feed/",
       "title": "",
       "saved": 0,
-      "method": "feed",
-      "nature": "undetermined",
-      "nature_basis": null
-    },
-    {
-      "source": "https://www.linkedin.com/company/rev-group-inc",
-      "error": "HTTPError"
+      "method": "feed"
     }
   ],
-  "fetched": "2026-08-30T22:33:40Z",
+  "fetched": "2026-09-06T19:17:18Z",
   "post_count": 20,
   "feed_nature": "undetermined",
   "feed_nature_basis": null,
